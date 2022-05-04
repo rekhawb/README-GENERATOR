@@ -36,4 +36,4 @@ Unknown
 GitHub link: [abcd](https://github.com/abcd)
 Email: [abcd@abcd.com](abcd@abcd.com)
 
-[README-GENERATOR-WALKTHROUGH-VIDEOLINK](https://drive.google.com/file/d/1Haeadrds6CWWrS69ts4yuQy1TzP5nK9c/preview "@embed")
+[README-GENERATOR-WALKTHROUGH-VIDEOLINK](https://drive.google.com/file/d/1Haeadrds6CWWrS69ts4yuQy1TzP5nK9c/view "@embed")
