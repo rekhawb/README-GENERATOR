@@ -101,7 +101,7 @@ ${installPrj}
 ##  Usage <a name="usage"></a>
 ${usagePrj}
 
-##  Tests <a name="license"></a>
+##  License <a name="license"></a>
 ${licenseText}
 
 ##  Contribute <a name="contribute"></a>
